@@ -4,16 +4,16 @@ This repository contains a collection of Python scripts designed to automate var
 
 ## Scripts Overview
 
-- **S3 Management** (`s3_management.py`):  
+- **S3 Management**:  
   Automate the management of Amazon S3 buckets and objects. This script includes functions for creating, listing, uploading, and deleting S3 buckets and objects.
 
-- **DynamoDB Operations** (`dynamodb_operations.py`):  
+- **DynamoDB Operations**:  
   Perform CRUD (Create, Read, Update, Delete) operations on DynamoDB tables. This script demonstrates how to create a table, add items, query data, and delete tables.
 
-- **SQS and SNS Messaging** (`sqs_sns_messaging.py`):  
+- **SQS and SNS Messaging**:  
   Manage Amazon SQS (Simple Queue Service) and SNS (Simple Notification Service) for messaging between distributed systems. This script includes examples of sending messages to SQS queues, receiving messages, and publishing notifications via SNS.
 
-- **Secrets and Encryption Management** (`kms_secrets_management.py`):  
+- **Secrets and Encryption Management**:  
   Handle sensitive data using AWS KMS (Key Management Service), Secrets Manager, and SSM (Systems Manager) Parameter Store. This script demonstrates how to create encryption keys, encrypt and decrypt data, and securely store secrets.
 
 ## Prerequisites
